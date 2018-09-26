@@ -1,3 +1,5 @@
+//Homework 3 Naira Khachatryan     26.09.2018
+
 //-A function that takes at least three arguments and returns the result of some set of operations using those arguments 
 price= function(material, labour, technology) 
 {
